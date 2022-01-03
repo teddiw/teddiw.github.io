@@ -2,7 +2,7 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Image](naas1.jpg)
+![Image](results/naas1.jpg)
 
 ```markdown
 Syntax highlighted code block
