@@ -1,6 +1,6 @@
 ### Bio
 
-Hi! I'm Theodora Worledge, a computer science PhD student at Stanford advised by [Carlos Guestrin](https://guestrin.su.domains/). I am supported by the [NSF GRFP Fellowship](https://www.nsfgrfp.org/). 
+Hi! I'm Theodora Worledge, a computer science PhD student at Stanford advised by the wonderful [Carlos Guestrin](https://guestrin.su.domains/). I am supported by the [NSF GRFP Fellowship](https://www.nsfgrfp.org/). 
 
 I'm generally interested in making ML models reliable and trustworthy. I'm particularly interested in equipping users with interpretability tools to verify outputs as model capabilities scale. Currently, I've been thinking about attributions for language model outputs.
 
