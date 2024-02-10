@@ -1,3 +1,7 @@
+### Bio
+
+Hi! I'm Teddi, a computer science PhD student at Stanford advised by Carlos Guestrin.
+
 ### Gallery
 
 #### Starry World • 2021
