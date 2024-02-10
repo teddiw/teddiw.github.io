@@ -4,13 +4,13 @@ Hi! I'm Theodora Worledge, a computer science PhD student at Stanford advised by
 
 I'm generally interested in making ML models reliable and trustworthy. I'm particularly interested in equipping users with interpretability tools to verify outputs as model capabilities scale. Currently, I've been thinking about attributions for language model outputs.
 
-In 2022, I graduated with my BA in [computer science](https://eecs.berkeley.edu/academics/undergraduate/cs-ba/) from UC Berkeley. I am very fortunate to have worked with [Esther Rolf](https://www.estherrolf.com/) and [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) during my time there.
+Previously, I graduated with my BA in computer science from UC Berkeley. I am very fortunate to have worked with [Esther Rolf](https://www.estherrolf.com/) and [Ben Recht](https://people.eecs.berkeley.edu/~brecht/) during my time there.
 
 I really enjoy the outdoors, cheese counters, and ceramic studios. I often go by Teddi :)
 
 ### Papers
 [Unifying Corroborative and Contributive Attributions in Large Language Models](https://arxiv.org/abs/2311.12233)
-Theodora Worledge*, Judy Hanwen Shen*, Nicole Meister, Caleb Winston, Carlos Guestrin. SaTML, 2023.
+Theodora Worledge*, Judy Hanwen Shen*, Nicole Meister, Caleb Winston, Carlos Guestrin. SaTML, 2024.
 
 [Representation matters: Assessing the importance of subgroup allocations in training data](https://arxiv.org/abs/2103.03399)
 Esther Rolf, Theodora Worledge, Benjamin Recht, Michael I. Jordan. ICML, 2021.
