@@ -9,10 +9,10 @@ Previously, I graduated with my BA in computer science from UC Berkeley. I am ve
 I really enjoy the outdoors, cheese counters, and ceramic studios. I often go by Teddi :)
 
 ### Papers
-[Unifying Corroborative and Contributive Attributions in Large Language Models](https://arxiv.org/abs/2311.12233)\n
+[Unifying Corroborative and Contributive Attributions in Large Language Models](https://arxiv.org/abs/2311.12233)  
 Theodora Worledge\*, Judy Hanwen Shen\*, Nicole Meister, Caleb Winston, Carlos Guestrin. SaTML, 2024.
 
-[Representation matters: Assessing the importance of subgroup allocations in training data](https://arxiv.org/abs/2103.03399)\n
+[Representation matters: Assessing the importance of subgroup allocations in training data](https://arxiv.org/abs/2103.03399)  
 Esther Rolf, Theodora Worledge, Benjamin Recht, Michael I. Jordan. ICML, 2021.
 
 ### Gallery
