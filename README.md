@@ -20,14 +20,13 @@ Esther Rolf, Theodora Worledge, Benjamin Recht, Michael I. Jordan. ICML, 2021.
 #### The Starry Night & [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) • 2021
 ##### Starry Anenome
 ![Image](/results/naas_starry_anenome1.jpg)
-<! -- 
-##### Starry Merced
+<!-- ##### Starry Merced
 ![Image](/results/naas_starry_merced.jpg)
 ##### Starry Reyes
 ![Image](/results/naas_y_starry_coast1.jpg)
-<!-- ##### Starry Tidepool
+##### Starry Tidepool
 ![Image](/results/naas_y_starry_pool1.jpg) -->
--->
+
 
 #### Sorting Algorithms • 2019
 ##### Selection Sort
