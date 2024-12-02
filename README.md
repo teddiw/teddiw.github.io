@@ -18,6 +18,8 @@ Theodora Worledge\*, Judy Hanwen Shen\*, Nicole Meister, Caleb Winston, Carlos G
 [Representation matters: Assessing the importance of subgroup allocations in training data](https://arxiv.org/abs/2103.03399) \
 Esther Rolf, Theodora Worledge, Benjamin Recht, Michael I. Jordan. ICML, 2021.
 
+My Google scholar profile is [here](https://scholar.google.com/citations?user=NOiVzBIAAAAJ&hl=en&oi=ao).
+
 ### Gallery
 
 #### The Starry Night & [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) • 2021
