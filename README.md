@@ -9,10 +9,13 @@ Previously, I graduated with a BA in computer science from UC Berkeley. I am ver
 I often go by Teddi :)
 
 ### Papers
-[Unifying Corroborative and Contributive Attributions in Large Language Models](https://arxiv.org/abs/2311.12233)  
+[The Extractive-Abstractive Spectrum: Uncovering Verifiability Trade-offs in LLM Generations](https://arxiv.org/abs/2411.17375) \
+Theodora Worledge, Tatsunori Hashimoto, Carlos Guestrin. Arxiv Preprint, 2024.
+
+[Unifying Corroborative and Contributive Attributions in Large Language Models](https://arxiv.org/abs/2311.12233) \
 Theodora Worledge\*, Judy Hanwen Shen\*, Nicole Meister, Caleb Winston, Carlos Guestrin. SaTML, 2024.
 
-[Representation matters: Assessing the importance of subgroup allocations in training data](https://arxiv.org/abs/2103.03399)  
+[Representation matters: Assessing the importance of subgroup allocations in training data](https://arxiv.org/abs/2103.03399) \
 Esther Rolf, Theodora Worledge, Benjamin Recht, Michael I. Jordan. ICML, 2021.
 
 ### Gallery
@@ -20,19 +23,3 @@ Esther Rolf, Theodora Worledge, Benjamin Recht, Michael I. Jordan. ICML, 2021.
 #### The Starry Night & [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) • 2021
 ##### Starry Anenome
 ![Image](/results/naas_starry_anenome1.jpg)
-<!-- ##### Starry Merced
-![Image](/results/naas_starry_merced.jpg)
-##### Starry Reyes
-![Image](/results/naas_y_starry_coast1.jpg)
-##### Starry Tidepool
-![Image](/results/naas_y_starry_pool1.jpg) -->
-
-
-#### Sorting Algorithms • 2019
-##### Selection Sort
-![Image](/results/sort_selection1.png)
-##### Insertion Sort
-![Image](/results/sort_insertion1.png)
-##### Merge Sort
-![Image](/results/sort_merge2.png)
-
